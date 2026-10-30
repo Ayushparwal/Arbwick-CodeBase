@@ -1,4 +1,4 @@
-# PDF RAG Application (React + FastAPI + Qdrant + Groq + Jina AI)
+# PDF RAG Application (React + FastAPI + Qdrant + Groq + Jina AI) 
 
 A modern, containerized Retrieval-Augmented Generation (RAG) system that allows you to upload PDF documents, extract and chunk text, generate embeddings via Jina AI, store vectors in Qdrant, and perform conversational Q&A powered by Groq's `openai/gpt-oss-120b` model using direct HTTP calls (no LangChain).
 
